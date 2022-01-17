@@ -1,4 +1,3 @@
-hi
-hello 
+ hello 
 am deploting this file
 practicing
